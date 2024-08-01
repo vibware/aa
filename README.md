@@ -1,2 +1,2 @@
-# aa
-aaaaaaa
+SELAMCANIM ="freescript"
+_G.KeyInput = "string"
